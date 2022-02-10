@@ -1,15 +1,5 @@
 <a href="https://devresourc.es/?ref=github-readme"><p align="center"><img width="5000" src="./public/assets/images/logo-with-bg.png" /></p></a>
 
- ---
->❗️ This README file is auto-generated on every **push** or **merge**, so please ***do not*** edit it. Changes related to resources should happen within the `/resources` folder.
----
-
- The resources list that powers [Dev Resources](https://devresourc.es/?ref=github-readme).
-
- For information on contributing, please see the [contributing guide](CONTRIBUTING.md).
-
- Join us on [Discord](https://discord.gg/SHw6TmXreR).
-
  ### Total resources: 2112
 
  ## Index
