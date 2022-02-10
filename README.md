@@ -2,11 +2,13 @@
 
 ## Cracking and Hacking Websites/Forums
 
-### Marketplace 
+### Cracking.org 
 
 |Name|Description|
 |---|---|
-| Icons8 | Download design elements for free: icons, photos, vector illustrations, and music for your videos. |
+| Marketplace | Premium Sellers, Sellers Section, Buyer's Section, Trading Section, Currency Exchange, Scam Reports |
+| Cracking | Discussions & Help Forum, Cracking Tutorials, Cracking Configs, Combolists, Cracking Tools, Proxies, Show Off |
+| Leaks | Premium Accounts, Databases, IPTV, Other leaks, Tutorials & Guides |
 
 
 ### Fonts
