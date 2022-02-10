@@ -1,4 +1,4 @@
-<a href="https://devresourc.es/?ref=github-readme"><p align="center"><img width="5000" src="./public/assets/images/logo-with-bg.png" /></p></a>
+
 
 ## Cracking and Hacking Websites/Forums
 
